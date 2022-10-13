@@ -6,7 +6,7 @@ Hi, I'm [Destiny Franks](https://www.desphixss.herokuapp.com/), a web and mobile
 
 <br>
 
-<img align="right" height="50px" width="50px" alt="GIF" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif" />
+<img align="right" height="150px" width="150px" alt="GIF" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif" />
 
  - 📫 How to reach me: [desphixs@gmail.com](mailto:desphixs@gmail.com);
  - 🔗 My website: [https://www.desphixss.herokuapp.com/](https://www.desphixss.herokuapp.com/)
