@@ -12,7 +12,7 @@ Hi, I'm [Destiny Franks](https://www.desphixss.herokuapp.com/), a web and mobile
  - 🔗 My website: [https://www.desphixss.herokuapp.com/](https://www.desphixss.herokuapp.com/)
  
  <br>
-
+<h3>Profile Views</h3>
  <p align="left"> <img src="https://profile-counter.glitch.me/desphixs/count.svg" alt="desphixs" /> </p>
  
  </br>
