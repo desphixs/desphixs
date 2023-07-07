@@ -6,10 +6,11 @@ Hi, I'm [Destiny Franks](https://www.desphixss.herokuapp.com/), a web and mobile
 
 <br>
 
-<img align="right" width="450px" alt="GIF" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif" />
+<img align="right" width="450px" alt="GIF" style="border-radius: 10px;" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif" />
 
  - 📫 How to reach me: [desphixs@gmail.com](mailto:desphixs@gmail.com);
- - 🔗 My website: [https://www.desphixss.herokuapp.com/](https://www.desphixss.herokuapp.com/)
+ - 🔗 My website:Coming Soon...
+<!-- 🔗 My website: [https://www.desphixss.herokuapp.com/](https://www.desphixss.herokuapp.com/) -->
  
  <br>
 <h3>Profile Views</h3>
@@ -30,5 +31,14 @@ Hi, I'm [Destiny Franks](https://www.desphixss.herokuapp.com/), a web and mobile
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+
+<br />
+<br />
+<br />
+
+<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api?username=desphixs&show_icons=true&locale=en" alt="desphixs" /></p>
+ 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=desphixs&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
