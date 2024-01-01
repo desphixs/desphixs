@@ -37,7 +37,7 @@ Hi, I'm [Destiny Franks](https://www.desphixss.herokuapp.com/), a web and mobile
 <br />
 
 <p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api?username=desphixs&show_icons=true&locale=en" alt="desphixs" /></p>
-<p align="left"><img src='https://streak-stats.demolab.com/?user=desphixs'></p>
+<p align="left"><img align="left" src='https://streak-stats.demolab.com/?user=desphixs'></p>
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=desphixs&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
