@@ -13,9 +13,13 @@
       <p align="left">
         I specialize in building <strong>scalable, modern, and high-performance applications</strong> across frontend and backend technologies. Passionate about emerging tech and innovation, I'm constantly learning and pushing the boundaries of what's possible. Oh, and I also founded <a href="https://desphixs.io"><strong>Desphixs</strong></a>.
       </p>
+      <div align="left">
+        <img src="https://profile-counter.glitch.me/desphixs/count.svg" alt="desphixs" width="150" /> <br> Profile Views
+      </div>
     </td>
   </tr>
 </table>
+
 
 
 # 🔹 **About Me**  
