@@ -1,45 +1,61 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, Welcome To Desphixs</h1>
+# Hi there, I'm Destiny Franks 👋
 
-<br>
+🚀 **Expert Fullstack Developer** | 💻 **Tech Enthusiast** | 🎬 **Dev. Instructor**| 🌐 **Building great stuffs, One Line of Code at a Time**
 
-Hi, I'm [Destiny Franks](https://www.desphixss.herokuapp.com/), a web and mobile app developer 👨🏻‍💻 from <b>Nigeria</b>. I'm a Results-oriented full stack developer with 4+ years experience developing, testing, and maintaining enterprise applications. Designed and developed over 30 advanced applications for various use cases and functional requirements for clients ranging from individuals and small businesses all the way to large enterprise corporations. 
+---
 
-<br>
+### 👨‍💻 About Me
 
-<img align="right" width="450px" alt="GIF" style="border-radius: 10px;" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif" />
+I'm a passionate **Fullstack Developer** with expertise in both **frontend** and **backend** technologies. I thrive on building scalable, modern, and user-friendly applications. I stay up-to-date with the latest trends and technologies to deliver cutting-edge solutions, and ummm, I'm also the founder of [_**Desphixs**_](https://desphixs.io)
 
- - 📫 How to reach me: [desphixs@gmail.com](mailto:desphixs@gmail.com);
- - 🔗 My Website: Coming Soon...
-<!-- 🔗 My website: [https://www.desphixss.herokuapp.com/](https://www.desphixss.herokuapp.com/) -->
- 
- <br>
-<h3>Profile Views</h3>
- <p align="left"> <img src="https://profile-counter.glitch.me/desphixs/count.svg" alt="desphixs" /> </p>
- 
- </br>
+*   🌱 I’m currently learning **Blockchain**.
+*   💬 Ask me about **React, Python, Django, Javascript, or just anything tech-related**.
+*   📫 How to reach me: \[desphixs@gmail.com\] or connect with me on [_**LinkedIn**_](https://ng.linkedin.com/in/destiny-franks-18611120a)_**.**_
+*   ⚡ Fun fact: I love playing the piano (haha)[🎹](https://emojipedia.org/musical-keyboard)
 
-**Languages and Tools::**
-<br>
+---
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height = "20" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height = "20" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height = "20" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-
-<br />
-<br />
-<br />
-
-<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api?username=desphixs&show_icons=true&locale=en" alt="desphixs" /></p>
-<p align="left" top="4"><img align="left" src='https://streak-stats.demolab.com/?user=desphixs'></p>
- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=desphixs&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+### 📱 Social Media
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCOuZPaS6u3ktSySpY6m2iUA?logo=youtube&logoColor=red&style=for-the-badge)](https://youtube.com/@desphixs)
+[![Website](https://img.shields.io/badge/Desphixs-%E2%86%92-purple?style=for-the-badge)](https://desphixs.io)
+[![Twitter Follow](https://img.shields.io/twitter/follow/desphixs?color=1DA1F2&logo=x&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fdesphixs&screen_name=desphixs)
 
 
+---
 
+### 🛠️ Tech Stack
+
+#### Frontend
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![SASS](https://img.shields.io/badge/-SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+
+#### Backend
+![Python](https://img.shields.io/badge/-Python-339933?style=for-the-badge&logo=python&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
+#### Databases
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+#### DevOps & Tools
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+---
+
+### 📈 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=desphixs&show_icons=true&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=desphixs&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=desphixs&layout=compact&theme=radical)
+
+---
