@@ -22,7 +22,7 @@ I'm a **Senior Fullstack Developer** and **Technical Instructor** passionate abo
 ---
 
 ### 🚀 What I'm Working On
-- 🔭 I’m currently building **[Staqed](https://staqed.com)**, a revolutionary platform for **learning core programming principles by building projects from day 1**.
+- 🔭 I’m currently building **[Staqed](https://staqed.com)**, a platform for learning to code by building projects from day 1. 
 - 🎓 Teaching over **7,500** students modern web development through **Youtube** & **Udemy**
 - 🧪 Exploring the intersection of **AI and Blockchain** in the FinTech space.
 - ✍️ Writing technical articles on **[Staqed Blog](https://staqed.com/blog/)**.
