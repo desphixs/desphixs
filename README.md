@@ -8,7 +8,7 @@ I also create programming content and share what I learn while building.
 
 ### What I’m working on
 
-I’m currently building staqed.com, rawaxys.com and themoderndeveloper.dev
+I’m currently building [Staqed](staqed.com), [RawAxys](rawaxys.com) and [The Modern Developer](https://themoderndeveloper.dev)
 
 ### Find me online
 
