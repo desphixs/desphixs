@@ -8,7 +8,7 @@ I also create programming content and share what I learn while building.
 
 ### What I’m working on
 
-I’m currently building [Staqed](https://staqed.com), [RawAxys](https://rawaxys.com) and [shypped](https://shypped.dev)
+I’m currently building [Staqed](https://staqed.com), [RawAxys](https://rawaxys.com) and [Shypped](https://shypped.dev)
 
 ### Find me online
 
